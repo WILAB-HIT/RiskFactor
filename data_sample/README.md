@@ -10,7 +10,7 @@
 - C:risk factor
 - P:position in the text
 - T:risk factor type
-- I:indiator
+- I:indicator
 - TA: time attribute
 - A:assertion
 
