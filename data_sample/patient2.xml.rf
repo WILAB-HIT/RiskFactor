@@ -1,0 +1,36 @@
+C=糖尿病 P=137:140 T=diabetes I=mention TA=continue A=possible
+C=糖尿病 P=164:167 T=diabetes I=mention TA=continue A=possible
+C=2型糖尿病 P=191:196 T=diabetes I=mention TA=continue A=present
+C=脂质异常血症 P=198:204 T=dyslipidemia I=mention TA=continue A=present
+C=男 P=232:233 T=gender I=mention
+C=32岁 P=234:237 T=age I=mention
+C=血糖升高10年余 P=243:251 T=diabetes I=high_glu TA=continue A=present
+C=BP:130/80mmHg P=295:308 T=hypertension I=high_bp TA=during A=present
+C=降糖 P=477:479 T=diabetes I=regulate_glu TA=during A=present
+C=调脂 P=481:483 T=dyslipidemia I=regulate_lip TA=during A=present
+C=降糖 P=594:596 T=diabetes I=regulate_glu TA=after A=present
+C=二甲双胍 P=598:602 T=diabetes I=medicine TA=after A=present
+C=百泌达 P=617:620 T=diabetes I=medicine TA=after A=present
+C=诺和平 P=634:637 T=diabetes I=medicine TA=after A=present
+C=男 P=693:694 T=gender I=mention
+C=高血压病 P=699:703 T=hypertension I=mention TA=continue A=absent
+C=血糖升高 P=781:785 T=diabetes I=high_glu TA=before A=present
+C=糖尿病 P=802:805 T=diabetes I=mention TA=continue A=possible
+C=百泌达 P=820:823 T=diabetes I=medicine TA=before A=present
+C=格华止 P=835:838 T=diabetes I=medicine TA=before A=present
+C=诺和平 P=852:855 T=diabetes I=medicine TA=before A=present
+C=血糖控制不好 P=871:877 T=diabetes I=regulate_glu TA=before A=present
+C=空腹血糖9mmo1/L P=879:890 T=diabetes I=high_glu TA=before A=present
+C=糖尿病 P=914:917 T=diabetes I=mention TA=continue A=possible
+C=BP: 130/80mmHg P=1008:1022 T=hypertension I=high_bp TA=during A=present
+C=肥胖 P=1026:1028 T=overweight/fat I=mention TA=continue A=present
+C=随节血糖:13.7mmol/L P=1214:1229 T=diabetes I=high_glu TA=during A=present
+C=糖尿病 P=1258:1261 T=diabetes I=mention TA=continue A=possible
+C=男 P=1290:1291 T=gender I=mention
+C=血糖升高10年余 P=1296:1304 T=diabetes I=mention TA=continue A=present X=1
+C=血糖升高10年余 P=1296:1304 T=diabetes I=high_glu TA=continue A=present X=2
+C=肥胖 P=1317:1319 T=overweight/fat I=mention TA=continue A=present
+C=BP:130/80mmHg P=1321:1334 T=hypertension I=high_bp TA=during A=present
+C=随机血糖: 13.7mmol/L P=1396:1412 T=diabetes I=high_glu TA=during A=present
+C=胰岛素 P=1689:1692 T=diabetes I=medicine TA=during A=present
+C=降糖 P=1695:1697 T=diabetes I=regulate_glu TA=during A=present

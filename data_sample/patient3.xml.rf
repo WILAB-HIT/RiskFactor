@@ -1,0 +1,18 @@
+C=女 P=71:72 T=gender I=mention
+C=62岁 P=77:80 T=age I=mention
+C=高血压病2级 极高危组 P=232:243 T=hypertension I=mention TA=continue A=present
+C=Bp：140/90mmHg P=299:312 T=hypertension I=high_bp TA=during A=present
+C=调脂 P=389:391 T=dyslipidemia I=regulate_lip TA=during A=present
+C=女 P=588:589 T=gender I=mention
+C=62岁 P=590:593 T=age I=mention
+C=高血压病史20年 P=677:685 T=hypertension I=mention TA=continue A=present
+C=160/90mmHg P=690:700 T=hypertension I=high_bp TA=before A=present
+C=糖尿病史 P=709:713 T=diabetes I=mention TA=continue A=absent
+C=吸烟 P=715:717 T=smoke I=mention TA=continue A=absent
+C=Bp：l40/90mmHg P=985:998 T=hypertension I=high_bp TA=during A=present
+C=高血压病2级 极高危组 P=1206:1217 T=hypertension I=mention TA=continue A=possible
+C=中年 P=1241:1243 T=age I=age_group
+C=女 P=1243:1244 T=gender I=mention
+C=高血压病多年 P=1267:1273 T=hypertension I=mention TA=continue A=present
+C=Bp：140/90mmHg P=1291:1304 T=hypertension I=high_bp TA=during A=present
+C=控制血压 P=1621:1625 T=hypertension I=regulate_bp TA=during A=present

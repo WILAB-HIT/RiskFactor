@@ -1,0 +1,8 @@
+C=女 P=71:72 T=gender I=mention
+C=BP: 100/60mmHg P=290:304 T=hypertension I=high_bp TA=during A=present
+C=女 P=675:676 T=gender I=mention
+C=女 P=760:761 T=gender I=mention
+C=高血压 P=765:768 T=hypertension I=mention TA=continue A=present
+C=糖尿病 P=770:773 T=diabetes I=mention TA=continue A=present
+C=BP：100/60mmHg P=980:993 T=hypertension I=high_bp TA=during A=present
+C=BP: 100/60mmHg P=1263:1277 T=hypertension I=high_bp TA=during A=present

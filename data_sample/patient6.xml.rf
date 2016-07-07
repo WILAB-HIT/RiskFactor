@@ -1,0 +1,7 @@
+C=BP:134/80mmHg P=237:250 T=hypertension I=high_bp TA=during A=present
+C=高血压病史 P=696:701 T=hypertension I=mention TA=continue A=absent
+C=糖尿病病史 P=705:710 T=diabetes I=mention TA=continue A=absent
+C=BP: 130/80mmHg P=948:962 T=hypertension I=high_bp TA=during A=present
+C=女性 P=1227:1229 T=gender I=mention
+C=72岁 P=1231:1234 T=age I=mention
+C=BP: 130/80mmHg P=1255:1269 T=hypertension I=high_bp TA=during A=present

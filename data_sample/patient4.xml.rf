@@ -1,0 +1,32 @@
+C=男 P=71:72 T=gender I=mention
+C=63岁 P=77:80 T=age I=mention
+C=高血压病3级  (极高危险组) P=174:189 T=hypertension I=mention TA=continue A=possible
+C=高血压病3级  (极高危险组) P=225:240 T=hypertension I=mention TA=continue A=possible
+C=高血压病3级  (极高危险组) P=276:291 T=hypertension I=mention TA=continue A=present
+C=调脂 P=537:539 T=dyslipidemia I=regulate_lip TA=during A=present
+C=降压 P=545:547 T=hypertension I=regulate_bp TA=during A=present
+C=Bp140/80mmHg P=631:643 T=hypertension I=high_bp TA=during A=present
+C=男 P=910:911 T=gender I=mention
+C=63岁 P=913:916 T=age I=mention
+C=高血压病3级 (极高危险组) P=971:985 T=hypertension I=mention TA=continue A=possible
+C=老年 P=1014:1016 T=age I=age_group
+C=男 P=1016:1017 T=gender I=mention
+C=高血压病史10余年 P=1022:1031 T=hypertension I=mention TA=continue A=present
+C=180/130mmHg P=1038:1049 T=hypertension I=high_bp TA=before A=present
+C=血压控制不理想 P=1058:1065 T=hypertension I=regulate_bp TA=before A=present
+C=糖尿病史 P=1069:1073 T=diabetes I=mention TA=continue A=absent
+C=吸烟 40 余年 P=1075:1083 T=smoke I=mention TA=continue A=present
+C=20 支/日 P=1085:1091 T=smoke I=smoking_amount TA=continue A=present
+C=Bp: 150/60mmHg P=1321:1335 T=hypertension I=high_bp TA=during A=present
+C=高血压病3级 (极高危组) P=1540:1553 T=hypertension I=mention TA=continue A=possible
+C=老年 P=1577:1579 T=age I=age_group
+C=男 P=1579:1580 T=gender I=mention
+C=高血压病史多年 P=1602:1609 T=hypertension I=mention TA=continue A=present
+C=180/130mmHg P=1613:1624 T=hypertension I=high_bp TA=before A=present
+C=多年吸烟史 P=1626:1631 T=smoke I=mention TA=continue A=present
+C=Bp150/60mmHg P=1642:1654 T=hypertension I=high_bp TA=during A=present
+C=调节血脂 P=1982:1986 T=dyslipidemia I=regulate_lip TA=during A=present
+C=冠脉粥样斑块 P=1990:1996 T=atherosclerosis I=mention TA=continue A=present
+C=阿乐 P=1998:2000 T=dyslipidemia I=medicine TA=during A=present
+C=控制血压 P=2017:2021 T=hypertension I=regulate_bp TA=during A=present
+C=博苏 P=2023:2025 T=hypertension I=medicine TA=during A=present

@@ -1,0 +1,1 @@
+java -cp rfannotator.jar wi.annotator.NewEmrAnnotatorComparator

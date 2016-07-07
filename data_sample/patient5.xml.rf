@@ -1,0 +1,25 @@
+C=高血压病3级 (极高危纲) P=69:82 T=hypertension I=mention TA=continue A=possible
+C=高血压病3级, 极高危组 P=114:126 T=hypertension I=mention TA=continue A=possible
+C=高血床病3级. 极高危组 P=158:170 T=hypertension I=mention TA=continue A=present
+C=BP:180/100mmHg P=213:227 T=hypertension I=high_bp TA=during A=present
+C=控制血压 P=371:375 T=hypertension I=regulate_bp TA=during A=present
+C=BP:140/80mmHg P=425:438 T=hypertension I=high_bp TA=during A=present
+C=老年 P=638:640 T=age I=age_group
+C=女 P=640:641 T=gender I=mention
+C=高血压病史2年余 P=646:654 T=hypertension I=mention TA=continue A=present
+C=190/110mmHg P=658:669 T=hypertension I=high_bp TA=before A=present
+C=糖尿病病史 P=672:677 T=diabetes I=mention TA=continue A=absent
+C=吸烟 P=680:682 T=smoke I=mention TA=continue A=absent
+C=血压180/100mHg P=746:758 T=hypertension I=high_bp TA=before A=present
+C=血压180/100mmHg P=847:860 T=hypertension I=high_bp TA=before A=present
+C=高血压痛3级 极高危组 P=877:888 T=hypertension I=mention TA=continue A=possible
+C=BP: 180/100mmHg P=961:976 T=hypertension I=high_bp TA=during A=present
+C=高血压病3级,极高危组 P=1157:1168 T=hypertension I=mention TA=continue A=possible
+C=老年 P=1201:1203 T=age I=age_group
+C=女 P=1203:1204 T=gender I=mention
+C=高血压病史2年余 P=1235:1243 T=hypertension I=mention TA=continue A=present
+C=190/110mmHg P=1247:1258 T=hypertension I=high_bp TA=before A=present
+C=糖尿病病史 P=1261:1266 T=diabetes I=mention TA=continue A=absent
+C=吸烟 P=1269:1271 T=smoke I=mention TA=continue A=absent
+C=BP: 180/100mmHg P=1284:1299 T=hypertension I=high_bp TA=during A=present
+C=控制血压 P=1545:1549 T=hypertension I=regulate_bp TA=during A=present

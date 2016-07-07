@@ -1,0 +1,9 @@
+C=男 P=71:72 T=gender I=mention
+C=53岁 P=77:80 T=age I=mention
+C=BP: 115/79mmHg P=371:385 T=hypertension I=high_bp TA=during A=present
+C=男 P=679:680 T=gender I=mention
+C=53岁 P=682:685 T=age I=mention
+C=男 P=747:748 T=gender I=mention
+C=高血压 P=754:757 T=hypertension I=mention TA=continue A=absent
+C=糖尿病 P=759:762 T=diabetes I=mention TA=continue A=absent
+C=BP: 115/79mmHg P=1198:1212 T=hypertension I=high_bp TA=during A=present

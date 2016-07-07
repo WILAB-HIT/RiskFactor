@@ -1,0 +1,17 @@
+C=女 P=71:72 T=gender I=mention
+C=48岁 P=77:80 T=age I=mention
+C=女性 P=350:352 T=gender I=mention
+C=48岁 P=354:357 T=age I=mention
+C=高血压 P=439:442 T=hypertension I=mention TA=continue A=absent
+C=糖尿病 P=444:447 T=diabetes I=mention TA=continue A=absent
+C=BP: 100/80mmHg P=485:499 T=hypertension I=high_bp TA=during A=present
+C=女性 P=975:977 T=gender I=mention
+C=48岁 P=979:982 T=age I=mention
+C=48岁 P=1070:1073 T=age I=mention
+C=女 P=1073:1074 T=gender I=mention
+C=高血压 P=1105:1108 T=hypertension I=mention TA=continue A=absent
+C=糖尿病 P=1110:1113 T=diabetes I=mention TA=continue A=absent
+C=BP: 100/80mmHg P=1349:1363 T=hypertension I=high_bp TA=during A=present
+C=48岁 P=1647:1650 T=age I=mention
+C=女 P=1650:1651 T=gender I=mention
+C=BP: 100/80mmHg P=1714:1728 T=hypertension I=high_bp TA=during A=present
