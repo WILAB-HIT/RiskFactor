@@ -7,12 +7,12 @@
 
 ---
 ##### Details of the risk factors in "patient1.xml.rf"
-- C:risk factor
-- P:position in the text
-- T:risk factor type
-- I:indicator
+- C: risk factor content
+- P: position in the text
+- T: risk factor type
+- I: indicator
 - TA: time attribute
-- A:assertion
+- A: assertion
 
 
 C=老年 P=620:622 T=age I=age_group
