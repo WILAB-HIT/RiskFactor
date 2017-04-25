@@ -2,8 +2,8 @@
 
 ---
 - discharge summaries and progress notes of 9 patients (combined together for each patient)
-- .xml file if the text within CEMR
-- .rf file if the risk factor annotation
+- .xml file is the text within CEMR
+- .rf file is the risk factor annotation
 
 ---
 ##### Details of the risk factors in "patient1.xml.rf"
